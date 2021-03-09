@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87054699-87f3-492f-91cc-00b16337f882" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_beat_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_beat_box_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_beat_box_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/androidTest/java/com/kmvdata/kotlin/buttonstyletest/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/java/com/kmvdata/kotlin/buttonstyletest/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/drawable/button_beat_box.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/drawable/button_beat_box_normal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/drawable/button_beat_box_pressed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/app/src/test/java/com/kmvdata/kotlin/buttonstyletest/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ButtonStyleTest/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/drawable/button_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/list_item_sound.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/list_item_sound.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scorekeeper/app/src/main/java/com/kmvdata/kotlin/scorekeeper/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/java/com/kmvdata/kotlin/scorekeeper/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scorekeeper/app/src/main/java/com/kmvdata/kotlin/scorekeeper/ScoreViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/java/com/kmvdata/kotlin/scorekeeper/ScoreViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Scorekeeper/app/src/main/res/values/themes.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[4P7LLN5HAUK74SVK]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1p8XV26JEbbpADpFUuWQg96r5Ty" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4P7LLN5HAUK74SVK" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-08T12:54:42.317Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android-custom-view/Users/kermit/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/kmvdata/kotlin/beatbox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="multi-representation-preview/Users/kermit/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kmvdata.kotlin.beatbox" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-h" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$/app/src/main/assets/sample_sounds" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="BeatBox.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundViewModelTest.callsBeatBoxPlayOnButtonClicked" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BeatBox.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kmvdata.kotlin.beatbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kmvdata.kotlin.beatbox" />
+      <option name="MAIN_CLASS_NAME" value="com.kmvdata.kotlin.beatbox.SoundViewModelTest" />
+      <option name="METHOD_NAME" value="callsBeatBoxPlayOnButtonClicked" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundViewModelTest.exposesSoundNameAsTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BeatBox.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kmvdata.kotlin.beatbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kmvdata.kotlin.beatbox" />
+      <option name="MAIN_CLASS_NAME" value="com.kmvdata.kotlin.beatbox.SoundViewModelTest" />
+      <option name="METHOD_NAME" value="exposesSoundNameAsTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SoundViewModelTest.testGetSound" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BeatBox.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kmvdata.kotlin.beatbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kmvdata.kotlin.beatbox" />
+      <option name="MAIN_CLASS_NAME" value="com.kmvdata.kotlin.beatbox.SoundViewModelTest" />
+      <option name="METHOD_NAME" value="testGetSound" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87054699-87f3-492f-91cc-00b16337f882" name="Default Changelist" comment="" />
+      <created>1614565711246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614565711246</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="189" y="166" key="#PSD" timestamp="1614588837563">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="189" y="166" key="#PSD/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614588837563" />
+    <state x="2265" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615208406778">
+      <screen x="1440" y="-275" width="1920" height="1175" />
+    </state>
+    <state x="2265" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.812/1440.-275.1920.1175@1440.-275.1920.1175" timestamp="1615208406778" />
+    <state x="104" y="129" width="1121" height="603" key="AVDManager" timestamp="1614765655535">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="104" y="129" width="1121" height="603" key="AVDManager/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614765655535" />
+    <state x="2039" y="69" key="AndroidCreateResourceFileDialog" timestamp="1615208441083">
+      <screen x="1440" y="-275" width="1920" height="1175" />
+    </state>
+    <state x="2039" y="69" key="AndroidCreateResourceFileDialog/0.25.1440.812/1440.-275.1920.1175@1440.-275.1920.1175" timestamp="1615208441083" />
+    <state x="2349" y="127" key="AndroidCreateXmlResourceDialog" timestamp="1615205921141">
+      <screen x="1440" y="-275" width="1920" height="1175" />
+    </state>
+    <state x="2349" y="127" key="AndroidCreateXmlResourceDialog/0.25.1440.812/1440.-275.1920.1175@1440.-275.1920.1175" timestamp="1615205921141" />
+    <state width="1279" height="155" key="GridCell.Tab.0.bottom" timestamp="1614765706270">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state width="1279" height="155" key="GridCell.Tab.0.bottom/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614765706270" />
+    <state width="1279" height="155" key="GridCell.Tab.0.center" timestamp="1614765706270">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state width="1279" height="155" key="GridCell.Tab.0.center/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614765706270" />
+    <state width="1279" height="155" key="GridCell.Tab.0.left" timestamp="1614765706269">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state width="1279" height="155" key="GridCell.Tab.0.left/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614765706269" />
+    <state width="1279" height="155" key="GridCell.Tab.0.right" timestamp="1614765706270">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state width="1279" height="155" key="GridCell.Tab.0.right/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614765706270" />
+    <state x="166" y="66" key="SettingsEditor" timestamp="1614744920866">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="166" y="66" key="SettingsEditor/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614744920866" />
+    <state x="444" y="212" key="chooseDestDirectoryDialog" timestamp="1614745130895">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="444" y="212" key="chooseDestDirectoryDialog/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614745130895" />
+    <state x="374" y="243" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1614765465957">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="374" y="243" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614765465957" />
+    <state x="415" y="220" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1614745130959">
+      <screen x="0" y="25" width="1440" height="812" />
+    </state>
+    <state x="415" y="220" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.25.1440.812/1440.-275.1920.1175@0.25.1440.812" timestamp="1614745130959" />
+  </component>
+</project>
