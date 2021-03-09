@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="BeatBoxButtonStyle" parent="Widget.AppCompat.Button">
+    <style name="BeatBoxButton" parent="Widget.AppCompat.Button">
         <item name="android:background">@drawable/button_beat_box</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/purple_200</item>
+        <item name="android:textColor">@color/soothing_blue</item>
     </style>
 </resources>
